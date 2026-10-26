@@ -1,0 +1,7 @@
+id = "flexoki-vscode"
+name = "Flexoki VSCode"
+version = "0.1.0"
+schema_version = 1
+authors = ["vaqxai"]
+description = "Port of the sglza.flexoki VS Code theme"
+repository = "https://github.com/vaqxai/zed-flexoki-vsc"
