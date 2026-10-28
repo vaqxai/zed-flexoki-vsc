@@ -327,6 +327,18 @@
             "font_style": null,
             "font_weight": null
           },
+          "keyword.function": {
+            "color": "#3aa99f",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.storage": {
+            "color": "#3aa99f",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "label": {
             "color": "#4385be",
             "background_color": null,
@@ -388,7 +400,7 @@
             "font_weight": null
           },
           "property": {
-            "color": "#d14d41",
+            "color": "#da702c",
             "background_color": null,
             "font_style": null,
             "font_weight": null
